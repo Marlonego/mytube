@@ -1,0 +1,59 @@
+/* NAV BAR  */
+
+
+
+
+
+.logo {
+    position: absolute;
+    left: 90px;
+    bottom: 510px;
+
+    width: 100px;
+
+}
+
+
+input {
+    border: 1px rgba(0, 0, 0, 0.2) solid;
+    position: relative;
+    right: 70%;
+    height: 30px;
+    width: 600px;
+}
+
+header {
+    height: 56px;
+    padding: 0 16px;
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+
+}
+
+
+.search {
+    width: ;
+}
+
+.lupe {
+    /* position: absolute;
+    right: 30%; */
+}
+
+.all {
+    display: inline-flex;
+
+}
+
+.bar {
+    position: relative;
+    width: 40px;
+}
